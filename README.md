@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello, I'm Tom 👋
 
-<!--
-**TomSmith-Developer/TomSmith-Developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a system administrator and discord bot developer.
 
-Here are some ideas to get you started:
+My website can be viewed at any of the following domains;
+https://tomdeveloper.xyz
+https://tomdeveloper.systems
+https://tomsmith.xyz
+https://syncbot.org
+https://tomdeveloper.link
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Thanks for stopping by!
