@@ -11,3 +11,5 @@ https://tomdeveloper.link
 
 
 Thanks for stopping by!
+
+You can also visit https://sourcebot.xyz to invite my discord bot.
