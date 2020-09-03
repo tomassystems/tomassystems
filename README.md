@@ -1,6 +1,10 @@
 # Hello, I'm Tom 👋
 
 I am a system administrator and discord bot developer.
+![GitHub Stats][stats]
+
+<!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
 Thanks for stopping by!
 
