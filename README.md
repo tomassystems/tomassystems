@@ -3,7 +3,6 @@
 I am a system administrator and discord bot developer.
 
 
-📊 **This Week I Spent My Time On** 
 ![GitHub Stats][stats]
 
 <!--START_SECTION:waka-->
