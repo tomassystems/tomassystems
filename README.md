@@ -1,5 +1,3 @@
-![GitHub Statistics](https://github-readme-stats.vercel.app/api?username=tomassystems&theme=dracula&count_private=true&show_icons=true)
-
 <h1 align="center">Hi 👋, I'm TomasSystems</h1>
 <h3 align="center">A System Administrator and JavaScript Developer</h3>
 
