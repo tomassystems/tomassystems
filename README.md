@@ -1,28 +1,34 @@
-<h1 align="center">Hi 👋, I'm TomasSystems</h1>
-<h3 align="center">A System Administrator and JavaScript Developer</h3>
+Hey there! I'm Tom - also known as TomasSystems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomassystems&label=Profile%20views&color=ff7b00&style=flat" alt="tomassystems" /> </p>
+Looking to contact me? Here is how:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomassystems" alt="tomassystems" /></a> </p>
+- Email: admin@tomas.systems
+- Discord: Tom.#7945
+- Twitter: @WiggleMoments
 
-- 🔭 I’m currently working on [SkyNight Labs](https://skynightlabs.com)
 
-- 🌱 I’m currently learning **PHP and MySQL**
+Some of my friends:
 
-- 💬 Ask me about **Linux and JavaScript**
+- Ben (UpBeatBenne)
+- Damon (DamonOnYT)
+- Callum (cxllm)
+- Kieran (kiecism)
+- Danny (Dannnington)
+- Emily (ItzBunniYT)
 
-- 📫 How to reach me **business@tomas.systems**
+Some of my current projects are:
 
-- ⚡ Fun fact **I hate school. :)**
+- RadioSpy (https://docs.tomas.systems/en/radiospy)
+- Triple (https://itstriple.net)
+- SkyNight Labs (https://skynightlabs.com)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/wigglemoments" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wigglemoments" height="30" width="40" /></a>
-<a href="https://discord.gg/Eu2McCTUfd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Eu2McCTUfd" height="30" width="40" /></a>
-</p>
+I mainly specialise in: 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+- PHP
+- NodeJS
+- System Administration
+
+Thanks for stopping by today. :)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomassystems&show_icons=true&locale=en&layout=compact" alt="tomassystems" /></p>
 
