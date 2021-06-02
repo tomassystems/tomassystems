@@ -15,6 +15,7 @@ Some of my friends:
 - Kieran (kiecism)
 - Danny (Dannnington)
 - Emily (ItzBunniYT)
+- Jack (jackkelly-bayliss)
 
 Some of my current projects are:
 
