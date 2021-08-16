@@ -14,15 +14,11 @@ Some of my friends:
 - Callum (cxllm)
 - Kieran (kiecism)
 - Danny (Dannnington)
-- Emily (ItzBunniYT)
 - Jack (jackkelly-bayliss)
 
 Some of my current projects are:
 
 - API (https://api.tomas.systems)
-- Triple (https://itstriple.net)
-- SkyNight Labs (https://skynightlabs.com)
-- Utilsy (https://utilsly.com)
 
 I mainly specialise in: 
 
