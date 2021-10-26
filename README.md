@@ -15,6 +15,7 @@ Some of my friends:
 - Kieran (kiecism)
 - Danny (Dannnington)
 - Jack (jackkelly-bayliss)
+- Rith (RithDev)
 
 Some of my current projects are:
 
