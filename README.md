@@ -1,36 +1,4 @@
-Hey there! I'm Tom - also known as TomasSystems.
-
-Looking to contact me? Here is how:
-
-- Email: admin@tomas.systems
-- Discord: Tom.#7945
-- Twitter: @WiggleMoments
-
-
-Some of my friends:
-
-- Ben (UpBeatBenne)
-- Damon (DamonOnYT)
-- Callum (cxllm)
-- Kieran (kiecism)
-- Danny (Dannnington)
-- Jack (jackkelly-bayliss)
-- Rith (RithDev)
-
-Some of my current projects are:
-
-- API (https://api.tomas.systems)
-
-I mainly specialise in: 
-
-- PHP
-- NodeJS
-- System Administration
-
-Thanks for stopping by today. :)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomassystems&show_icons=true&locale=en&layout=compact" alt="tomassystems" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomassystems&show_icons=true&theme=tokyonight&locale=en" alt="tomassystems" /></p>
+## 👋 Welcome to my profile.
+Hi there, I'm Tom a full-stack PHP developer. If you're looking for some more details surrounding myself, you can take a look at my website [https://tomas.works](https://tomas.works). 😊
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomassystems&" alt="tomassystems" /></p>
